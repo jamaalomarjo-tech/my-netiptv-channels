@@ -149,4 +149,4 @@ Path("channels.m3u").write_text(
 )
 print(f"Finished: {total} channels")
 
-https://raw.githubusercontent.com/jamaalomarjo-tech/my-netiptv-channels/main/channels.m3u
+
