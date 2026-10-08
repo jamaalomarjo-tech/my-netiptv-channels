@@ -148,3 +148,5 @@ Path("channels.m3u").write_text(
     encoding="utf-8"
 )
 print(f"Finished: {total} channels")
+
+https://raw.githubusercontent.com/jamaalomarjo-tech/my-netiptv-channels/main/channels.m3u
