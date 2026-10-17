@@ -537,13 +537,13 @@ https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playl
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KMTVTV" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",CBS KMTV-TV (720p)
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USA",CBS KUTV (1080p)
+#EXTINF:-1 tvg-id="CBS.us@KUTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/KUTV_13.svg/960px-KUTV_13.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="USA",CBS KUTV (1080p)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us@KWTVDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USA",CBS KWTV-DT (720p) [Not 24/7]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
-#EXTINF:-1 tvg-id="CBS.us@KZTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USA",CBS KZTV (720p)
+#EXTINF:-1 tvg-id="CBS.us@KZTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/KZTV_logo%2C_introduced_in_2021.svg/960px-KZTV_logo%2C_introduced_in_2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="USA",CBS KZTV (720p)
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 tvg-id="CBS.us@WCBITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USA",CBS WCBI-TV (720p)
+#EXTINF:-1 tvg-id="CBS.us@WCBITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/WCBITVDT.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" group-title="USA",CBS WCBI-TV (720p)
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 tvg-id="CBS.us@WDEFTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="USA",CBS WDEF-TV (720p)
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
@@ -3853,8 +3853,6 @@ http://213.91.179.28:8000/play/a0bw
 https://live-fi.tvkaista.net/star-channel/live.m3u8
 #EXTINF:-1 tvg-id="TaivasTV7.fi@SD" tvg-logo="https://i.imgur.com/JyJNiXy.png" group-title="Finland",Taivas TV7 (720p)
 https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ViaplayTV.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Viaplay_TV_logo.svg" group-title="Finland",Viaplay TV (720p) [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="YleTeemaFem.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/960px-Yle_Teema_%26_Fem.svg.png" group-title="Finland",Yle Teema & Fem (1080p) [Not 24/7]
 https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
 #EXTINF:-1 tvg-id="YleTV1.fi@SD" tvg-logo="https://i.imgur.com/6yXZwUL.png" group-title="Finland",Yle TV1 (1080p) [Not 24/7]
@@ -12195,7 +12193,7 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 http://31.148.48.15/7TV/index.m3u8
 #EXTINF:-1 tvg-id="Sever.ru@SD" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Russia",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="Russia",Shanson TV (576p)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-logo="https://i.imgur.com/Fk4sd8t.png" group-title="Russia",Shanson TV SD (576p)
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 tvg-id="ShayanTV.ru@SD" tvg-logo="https://i.imgur.com/CvFwczN.png" group-title="Russia",Shayan TV (1080p)
 https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
